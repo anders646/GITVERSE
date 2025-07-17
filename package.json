@@ -1,0 +1,10 @@
+{
+  "name": "gitverse",
+  "version": "0.1.0",
+  "description": "\ud83d\udd0d Reverse engineer any codebase into a build prompt \u2014 architecture breakdown, ASCII blueprint, and AI-ready reconstruction prompt",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
